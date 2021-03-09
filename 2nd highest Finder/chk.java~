@@ -1,0 +1,5 @@
+public class chk{
+  Object ob[];
+  public chk(Object b,int starting , int ending){
+    ob=b;
+    size=5;

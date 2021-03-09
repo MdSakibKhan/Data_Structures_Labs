@@ -1,0 +1,5 @@
+public class cirh{
+  public static void main(String[] args){
+    Object [] a = {null,50,15,65,97,52};
+    chk c = new chk(a,1,4);
+    
