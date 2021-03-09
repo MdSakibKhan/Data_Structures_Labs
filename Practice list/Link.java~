@@ -1,0 +1,7 @@
+public class Link{
+  Node head;
+  Link(Object []ob){
+   head = new Node(ob[0]);
+   Node tail = head;
+  }
+}

@@ -1,0 +1,14 @@
+public class LinkList{
+  Node head = new Node(null,null,null);
+  LinkList(Object ar[]){
+    Node h2;
+    int c = 0;
+    for(h2=head; c<a.length; c++){
+      Node x = new Node(ar[c],null,null);
+      h2.next = x;
+      x.prev=h2;
+      h2=x;
+    }
+  }
+}
+      

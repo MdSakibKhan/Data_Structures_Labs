@@ -1,0 +1,7 @@
+public class listTest{
+  public static void main(String[] args){
+    Object a[]={10,20,30,40,50,60,70};
+    Link s = new Link(a);
+    
+  }
+}
